@@ -1,7 +1,8 @@
 .app-container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  background-color: rgb(216, 212, 212);
+  min-height: 200vh;
 }
 
 .content {

@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <Link to="/" className="navbar-logo">Music Converter</Link>
+        <Link to="/" className="navbar-logo">HUMS.</Link>
         <div className="navbar-links">
           {currentUser ? (
             <>
