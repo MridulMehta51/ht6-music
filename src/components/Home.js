@@ -192,7 +192,7 @@ function Home() {
       )}
       {recordedAudio && (
         <div>
-          <h2>Recorded Audio:</h2> 
+          <h2 className = "home-upload">Recorded Audio:</h2> 
           <audio src={recordedAudio} controls />
         </div>
       )}
